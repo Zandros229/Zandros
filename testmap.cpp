@@ -26,4 +26,4 @@ int main(void)
 	Database = NewDatabase;								//Update original database
 	
 	cout << Database << endl;							//Print original databese
-};
+}
